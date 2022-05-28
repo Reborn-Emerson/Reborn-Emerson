@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVhqNmIUWuf72yrSzgLHcsNqai2/HBuJ1XB0QsQA6iGDALPgHxmlLzWkE2wrTtv/L8PQboycH8uo68ZAQrnNjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reborn\\Desktop\\Bank_DIO\\WebApplication1\\ASADeserializer1\\ASADeserializer1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reborn\\.nuget\\packages\\microsoft.azure.streamanalytics\\0.2.63905.1\\microsoft.azure.streamanalytics.0.2.63905.1.nupkg.sha512",
+    "C:\\Users\\Reborn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Reborn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
