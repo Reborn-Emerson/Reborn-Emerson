@@ -1,0 +1,15 @@
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.csproj.AssemblyReference.cache
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.AssemblyInfoInputs.cache
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.AssemblyInfo.cs
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.csproj.CoreCompileInputs.cache
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\bin\Debug\net6.0\appSeries.exe
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\bin\Debug\net6.0\appSeries.deps.json
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\bin\Debug\net6.0\appSeries.runtimeconfig.json
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\bin\Debug\net6.0\appSeries.dll
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\bin\Debug\net6.0\appSeries.pdb
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.dll
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\refint\appSeries.dll
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.pdb
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\appSeries.genruntimeconfig.cache
+C:\Users\Reborn\Desktop\DIO\appSeries\appSeries\obj\Debug\net6.0\ref\appSeries.dll
